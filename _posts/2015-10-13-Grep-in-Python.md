@@ -1,9 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Implementing grep in Python 
 ---
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 ## Implementing grep in Python
 
