@@ -3,8 +3,6 @@ layout: post
 title: Implementing grep in Python 
 ---
 
-## Implementing grep in Python
-
 Hello, and welcome to the first installment of my blog. Today we will start
 building a clone of grep in pure-python with no third-party extentions. We
 will limit the number of features that we will implement today in the name
