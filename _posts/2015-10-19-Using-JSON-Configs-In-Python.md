@@ -3,11 +3,9 @@ layout: post
 title: Using JSON for Configuration in Python
 ---
 
-ing in Python, and how I feel
+This post is about configuration file handling in Python, and how I feel
 about it. The views are completely subjective and debate is welcome in
-the [bug tracker](https://github.com/iLoveTux/ilovetux.github.io/issues)
-(I'll write a post on why I like this approach better than a comment system
-at some point), but for now...
+the comment section below.
 
 ### Why not ConfigParser
 
