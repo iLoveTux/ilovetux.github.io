@@ -6,7 +6,7 @@
 name: iLoveTux - A Blog About Python, Linux and Everything Else That Makes Life Fun 
 
 # Short bio or description (displayed in the header)
-description: Full Stack DevOps Ninja
+description: A Full Stack DevOps Ninja
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/2762492?v=3&s=460
@@ -18,14 +18,14 @@ avatar: https://avatars2.githubusercontent.com/u/2762492?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: me@ilovetux.com
   facebook:
   flickr:
   github: ilovetux
   instagram:
   linkedin: cliffbressette
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: RSS # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
   stackoverflow: users/2723675/ilovetux # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
