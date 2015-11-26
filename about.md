@@ -20,6 +20,6 @@ I've had a hard go at life early on being angry, frustrated and mis-directed I m
 
 [linkedin](https://www.linkedin.com/in/cliffbressette)
 
-<a href="http://stackoverflow.com/users/2723675/ilovetux">
-<img src="http://stackoverflow.com/users/flair/2723675.png" width="208" height="58" alt="profile for iLoveTux at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for iLoveTux at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+<a href="https://stackoverflow.com/users/2723675/ilovetux">
+<img src="https://stackoverflow.com/users/flair/2723675.png" width="208" height="58" alt="profile for iLoveTux at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for iLoveTux at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
