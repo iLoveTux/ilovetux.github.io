@@ -3,8 +3,6 @@ layout: post
 title: Git for System Administrators
 ---
 
-Git for System Administrators
-
 Hello and Happy Thanksgiving, this is the belated fourth installment
 of my blog where I will go over a slightly unconventional, but incredibly
 powerful use for git the distributed version control system. Git was built
