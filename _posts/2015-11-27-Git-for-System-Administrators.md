@@ -1,3 +1,8 @@
+---
+layout: post
+title: Git for System Administrators
+---
+
 Git for System Administrators
 
 Hello and Happy Thanksgiving, this is the belated fourth installment
