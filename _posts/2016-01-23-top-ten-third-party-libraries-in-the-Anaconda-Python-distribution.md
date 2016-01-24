@@ -26,9 +26,9 @@ library will make the list.
 
 ## Number 10: Colorama
 
-[on github](https://github.com/tartley/colorama)
+[GitHub](https://github.com/tartley/colorama)
 
-[on PyPI](http://pypi.python.org/pypi/colorama)
+[PyPI](http://pypi.python.org/pypi/colorama)
 
 I use this library extensively as it allows a simple interface to colored
 terminal output. For Windows support they override `sys.stdout.write` with
@@ -68,7 +68,7 @@ brush up on how to manipulate excel spreadsheets.
 
 [bitbucket](https://bitbucket.org/openpyxl/openpyxl/)
 
-[pypi](https://pypi.python.org/pypi/openpyxl)
+[PyPI](https://pypi.python.org/pypi/openpyxl)
 
 One of my friends was spending three hours per day putting together
 spreadsheets for management, when he told me this I was appalled. Now,
@@ -157,7 +157,7 @@ on my computer in order to perform a pretty easy clean-up.
 
 [github](https://github.com/giampaolo/psutil)
 
-[pypi](https://pypi.python.org/pypi/psutil)
+[PyPI](https://pypi.python.org/pypi/psutil)
 
 [Python Hosted](http://pythonhosted.org/psutil/)
 
@@ -245,7 +245,7 @@ is sometimes an issue.
 
 [website](http://pygments.org/)
 
-[pypi](https://pypi.python.org/pypi/Pygments)
+[PyPI](https://pypi.python.org/pypi/Pygments)
 
 [bitbucket](http://bitbucket.org/birkenfeld/pygments-main)
 
@@ -299,7 +299,7 @@ if __name__ == "__main__":
 
 [website](http://pytest.org/latest/)
 
-[pypi](https://pypi.python.org/pypi/pytest)
+[PyPI](https://pypi.python.org/pypi/pytest)
 
 [GitHub](https://github.com/pytest-dev/pytest/)
 
@@ -331,7 +331,7 @@ This brings us to our next library `requests`
 
 [GitHub](http://github.com/kennethreitz/requests)
 
-[pypi](http://pypi.python.org/pypi/requests)
+[PyPI](http://pypi.python.org/pypi/requests)
 
 `requests` is a library for making requests over http(s) which can come in
 quite handy when consuming services without a Python client library, and even
@@ -392,7 +392,7 @@ if __name__ == "__main__":
 
 [GitHub](https://github.com/spyder-ide/spyder)
 
-[pypi](https://pypi.python.org/pypi/spyder)
+[PyPI](https://pypi.python.org/pypi/spyder)
 
 I love this, it's almost the perfect Python IDE. If not perfect at least adequate
 way more so than `idle`. Although, I've been using [atom](https://atom.io/) from
@@ -419,7 +419,7 @@ it's so much quicker and easier to just use `pip`.
 
 [GitHub](https://github.com/lxml/lxml/)
 
-[pypi](https://pypi.python.org/pypi/lxml/3.5.0)
+[PyPI](https://pypi.python.org/pypi/lxml/3.5.0)
 
 While the standard library's `xml` module is passable for most scenarios,
 whenever I try to do something advanced I seem to hit my head on one thing
@@ -519,7 +519,7 @@ if __name__ == "__main__":
 
 [GitHub](https://github.com/pydata/pandas)
 
-[pypi](https://pypi.python.org/pypi/pandas/0.17.1/)
+[PyPI](https://pypi.python.org/pypi/pandas/0.17.1/)
 
 While pandas provides almost everything a fledgling data scientist could want,
 it's amazingly easy to get started with. Here is a simple script which takes
