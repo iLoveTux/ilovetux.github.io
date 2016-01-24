@@ -174,6 +174,7 @@ want an in-depth look at resource usage, maybe check out some of the tools
 included with your operating system or roll your own solution, this code will
 give you a nice head start.
 
+{% raw %}
 ```python
 import os
 import psutil
@@ -234,6 +235,8 @@ if __name__ == "__main__":
         # We don't need a traceback when the user interrupts the program
         pass
 ```
+
+{% endraw %}
 
 So, pretty useful if you just want a quick glimpse at system resource usage,
 but also can be built upon since the `psutil` package is extremely useful and
