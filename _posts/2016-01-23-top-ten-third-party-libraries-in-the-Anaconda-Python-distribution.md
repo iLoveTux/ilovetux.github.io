@@ -64,6 +64,12 @@ brush up on how to manipulate excel spreadsheets.
 
 ## Number 9: openpyxl
 
+[website](https://openpyxl.readthedocs.org/en/)
+
+[bitbucket](https://bitbucket.org/openpyxl/openpyxl/)
+
+[pypi](https://pypi.python.org/pypi/openpyxl)
+
 One of my friends was spending three hours per day putting together
 spreadsheets for management, when he told me this I was appalled. Now,
 I have always been one for automating things and having reproducible
@@ -149,6 +155,12 @@ on my computer in order to perform a pretty easy clean-up.
 
 ## Number 8: psutil
 
+[github](https://github.com/giampaolo/psutil)
+
+[pypi](https://pypi.python.org/pypi/psutil)
+
+[Python Hosted](http://pythonhosted.org/psutil/)
+
 This module has become one of my favorites for a number of tasks, including
 monitoring my servers and profiling my code. It is cross-platform (supporting
 Linux, Windows, OSX, Sun Solaris, FreeBSD, OpenBSD and NetBSD, both 32-bit and
@@ -231,6 +243,13 @@ is sometimes an issue.
 
 ## Number 7: pygments
 
+[website](http://pygments.org/)
+
+[pypi](https://pypi.python.org/pypi/Pygments)
+
+[bitbucket](http://bitbucket.org/birkenfeld/pygments-main)
+
+
 `Pygments` is a generic syntax highlighter suitable for a number of scenarios,
 and supports over 300 languages.
 
@@ -278,6 +297,12 @@ if __name__ == "__main__":
 
 ## Number 6: pytest
 
+[website](http://pytest.org/latest/)
+
+[pypi](https://pypi.python.org/pypi/pytest)
+
+[GitHub](https://github.com/pytest-dev/pytest/)
+
 `pytest` is a minimalistic testing framework which can be used for unit testing
 or for simple tests you'd like to be able to group together. I use it for unit
 testing as well as checking on my servers and other tasks I like to automate
@@ -301,6 +326,12 @@ hopefully telling you that you have connectivity.
 This brings us to our next library `requests`
 
 ## Number 5: requests
+
+[website](http://docs.python-requests.org/en/latest/)
+
+[GitHub](http://github.com/kennethreitz/requests)
+
+[pypi](http://pypi.python.org/pypi/requests)
 
 `requests` is a library for making requests over http(s) which can come in
 quite handy when consuming services without a Python client library, and even
@@ -359,6 +390,10 @@ if __name__ == "__main__":
 
 ## Number 4: spyder
 
+[GitHub](https://github.com/spyder-ide/spyder)
+
+[pypi](https://pypi.python.org/pypi/spyder)
+
 I love this, it's almost the perfect Python IDE. If not perfect at least adequate
 way more so than `idle`. Although, I've been using [atom](https://atom.io/) from
 GitHub lately (I'm almost addicted to trying out new toolsets) I still love
@@ -379,6 +414,12 @@ be better to take the packages I use and write `conda recipes` for them, but
 it's so much quicker and easier to just use `pip`.
 
 ## Number 2: lxml
+
+[website](http://lxml.de/)
+
+[GitHub](https://github.com/lxml/lxml/)
+
+[pypi](https://pypi.python.org/pypi/lxml/3.5.0)
 
 While the standard library's `xml` module is passable for most scenarios,
 whenever I try to do something advanced I seem to hit my head on one thing
@@ -473,6 +514,12 @@ if __name__ == "__main__":
 ```
 
 ## Number 1: pandas
+
+[website](http://pandas.pydata.org/)
+
+[GitHub](https://github.com/pydata/pandas)
+
+[pypi](https://pypi.python.org/pypi/pandas/0.17.1/)
 
 While pandas provides almost everything a fledgling data scientist could want,
 it's amazingly easy to get started with. Here is a simple script which takes
