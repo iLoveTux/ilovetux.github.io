@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to setup a WA server using Fedora 23 and tox
+title: How to setup a QA server using Fedora 23 and tox
 ---
 
 Tox is a tool which sits on top of virtualenv, the venerable Python
