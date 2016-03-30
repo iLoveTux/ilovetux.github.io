@@ -18,6 +18,8 @@ $ sudo dnf groupinstall "Development tools"
 $ sudo dnf install zlib-devel bzip2-devel openssl-devel ncurses-devel sqlite-devel readline-devel tk-devel gdbm-devel db4-devel libpcap-devel xz-devel
 ```
 
+Next we need to download, extract, and compile our Python interpreters.
+
 We can do that with the following commands:
 
 ```bash
