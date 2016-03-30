@@ -55,10 +55,11 @@ Now we can run tox and it will find both Python interpreters. If you would
 like to add these to your `PATH` permanently, you can add that above command
 to your `~/.bashrc`.
 
-So now we need to set up a project 
+So now we need to set up a project which uses tox to run its tests against
+multiple versions of Python. We will leave this for my next post in the
+interest of making short, sweet posts and to allow me to increase the rate
+at which I release my blog posts.
 
+Remember to leave a comment below.
 
-
-
-
-
+Have fun and Happy coding!
