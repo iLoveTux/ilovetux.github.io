@@ -3,6 +3,8 @@ layout: post
 title: How to start an open source project in Python
 ---
 
+A quick look at how to make the most of your time when writing open source Python code.
+
 ### What is this all about?
 
 I have been programming in Python for a few years now and this is a collection of useful tools and processes to follow to make it as easy as possible to maintain your software. I had to stumble upon these things one-by-one each one teaching me how the great Python masters seemed to be performing their miracles.
