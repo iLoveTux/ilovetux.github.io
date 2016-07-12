@@ -3,8 +3,6 @@ layout: post
 title: Automation 
 ---
 
-# Automation
-
 There are several types of automation each with its own set of unique
 challenges. In this paper, I will attempt to outline these categories of
 automation tasks along with some ways to streamline the process of automating
