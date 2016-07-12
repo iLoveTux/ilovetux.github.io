@@ -112,7 +112,7 @@ Some libraries to look at for automation:
 * Pandas (for manipulating tabular data)
 
 There are literally tons more to check out. You can usually get by with just a 
-simple web search for "Python <TASK>" where <TASK> is what you are currently
+simple web search for "Python TASK" where TASK is what you are currently
 trying to do.
 
 # Some closing thoughts
